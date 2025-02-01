@@ -1,0 +1,5 @@
+You want to make a pizza, but you lack the ancestral art of pizza making, yet you WANT to learn how to make pizza, what is your first step?
+
+How does a pizza oven work!
+
+It’s the same with a web application, before delving deep into the making part of the website, we always start from the ground up. Stay calm, take a cup of tea, and follow the way of the computer.
